@@ -9,10 +9,6 @@
 * [Download Dlib](https://raw.githubusercontent.com/Billyas/python-dlib/master/dist/dlib-19.23.0-cp39-cp39-win_amd64.whl)
 
 
-
-
-
-
 Next, after the above requirement fulfilled, do this.
 <ul>
 <li>pip install flask</li>
